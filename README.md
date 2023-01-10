@@ -38,3 +38,8 @@ python skl_cv.py
 ```
 
 
+## References
+
+1. [ONNX Model Zoo](https://github.com/onnx/models)
+2. [Model visualization](https://github.com/lutzroeder/Netron)
+
