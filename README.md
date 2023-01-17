@@ -42,4 +42,6 @@ python skl_cv.py
 
 1. [ONNX Model Zoo](https://github.com/onnx/models)
 2. [Model visualization](https://github.com/lutzroeder/Netron)
+3. [ONNX web Tutorial](https://hackernoon.com/how-to-run-machine-learning-models-in-the-browser-using-onnx)
+4. [JavaScript Tutorial](https://zh.javascript.info/intro)
 
