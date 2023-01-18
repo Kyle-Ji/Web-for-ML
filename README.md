@@ -42,6 +42,9 @@ python skl_cv.py
 
 1. [ONNX Model Zoo](https://github.com/onnx/models)
 2. [Model visualization](https://github.com/lutzroeder/Netron)
-3. [ONNX web Tutorial](https://hackernoon.com/how-to-run-machine-learning-models-in-the-browser-using-onnx)
+3. [How to Run Machine-Learning Models in the Browser using ONNX](https://hackernoon.com/how-to-run-machine-learning-models-in-the-browser-using-onnx)
 4. [JavaScript Tutorial](https://zh.javascript.info/intro)
-
+5. [JavaScript 语言入门教程](https://wangdoc.com/javascript/)
+6. [ONNX Web Tutorial](https://rekoil.io/blog/onnxruntime-web-tutorial/)
+7. [Learn Git Branching](https://learngitbranching.js.org/)
+8. [Top 50+ Linux Commands You MUST Know](https://www.digitalocean.com/community/tutorials/linux-commands)
